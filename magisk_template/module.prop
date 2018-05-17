@@ -1,0 +1,7 @@
+id=LocationManagerServiceExWakelockFixer
+name=LocationManagerServiceEx Wakelock Fixer
+version=v1.0
+versionCode=1
+author=drizzt
+description=LocationManagerServiceEx Wakelock Fixer.
+minMagisk=1500
